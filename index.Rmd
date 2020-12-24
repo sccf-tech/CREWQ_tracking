@@ -1,8 +1,7 @@
 ---
 title: "Caloosahatchee Water Quality Dashboard"
 output: 
-  html_document:
-    toc: yes
+  html_document: 
     includes:
       after_body: footer.html
 editor_options: 
