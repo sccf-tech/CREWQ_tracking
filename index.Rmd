@@ -23,7 +23,7 @@ library(reshape)
 library(Hmisc)
 library(zoo)
 library(RcppRoll)
-library(icon);#devtools::install_github("ropenscilabs/icon")
+# library(icon);#devtools::install_github("ropenscilabs/icon")
 library(kableExtra)
 #https://haozhu233.github.io/kableExtra/awesome_table_in_html.html
 
