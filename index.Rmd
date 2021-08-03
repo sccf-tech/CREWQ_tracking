@@ -73,6 +73,8 @@ map=tm_basemap(leaflet::providers$Esri.WorldImagery,alpha=0.9)+
   
 ```
 
+Updated: `r paste(format(Sys.Date(),"%B %d, %Y"))`
+
 ***
 
 **_Please note this analysis is for informational purposes only and subject to change._**
