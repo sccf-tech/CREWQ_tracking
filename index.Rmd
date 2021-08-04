@@ -81,8 +81,8 @@ Updated: `r paste(format(Sys.Date(),"%B %d, %Y"))`
 
 *This page is best view in Google Chrome or Firefox.*
 
-```{r, out.width="60%",fig.align="center",echo=FALSE,fig.cap="S-79 lock looking west. *Unknown source*."}
-knitr::include_graphics("maxresdefault.jpg")
+```{r, out.width="60%",fig.align="center",echo=FALSE,fig.cap="S-79 lock. *Source: Leah Reidenbach, SCCF*."}
+knitr::include_graphics("S79.PNG")
 ```
 
 
